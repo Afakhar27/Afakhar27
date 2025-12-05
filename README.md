@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center">🌸 Hi there, I'm Ikram Afakhar! 👩‍💻</h1>
-  <h3 align="center">✨ Software Engineering Student | Full Stack & DevOps Enthusiast 🚀</h3>
+  <h1 align="center">👋 Hi there, I'm Ikram Afakhar! 👩‍💻</h1>
+  <h3 align="center">✨ Master’s student in Networks and Computer Systems | Full Stack & DevOps Enthusiast 🚀</h3>
   <p align="center">
-     <i>Coding with passion, deploying with precision.</i> 💖
+     <i>"Coding with passion, deploying with precision."</i> 💖
   </p>
 </div>
 
