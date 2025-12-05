@@ -2,7 +2,7 @@
   <h1 align="center">🌸 Hi there, I'm Ikram Afakhar! 👩‍💻</h1>
   <h3 align="center">✨ Software Engineering Student | Full Stack & DevOps Enthusiast 🚀</h3>
   <p align="center">
-     <i>"Coding with passion, deploying with precision."</i> 💖
+     <i>Coding with passion, deploying with precision.</i> 💖
   </p>
 </div>
 
@@ -14,7 +14,6 @@ I am a **Software Engineering Student** passionate about building beautiful & sc
 Currently pursuing a Master's degree in **Networks and Computer Systems**, I love bridging the gap between development and operations with a **DevOps** mindset. 🔥
 
 - 🎓 **Master's Student** @ FST Settat (2024-2026)
-- 🔭 Working on **Spring Boot & React** projects & **Cloud Infrastructure**
 - 🌱 Learning **Advanced DevOps** & **Cloud Architecture**
 - 💼 Looking for a **PFE (End of Studies) Internship**
 
@@ -70,17 +69,37 @@ Currently pursuing a Master's degree in **Networks and Computer Systems**, I lov
 
 ### 🎀 Featured Projects
 
-- **📄 OCR & AI Extraction**
-  *Automatic extraction of birth certificates using Python, YOLOv8, and RAG.*
+#### 📄 OCR & AI Extraction (PFA Project)
+> *April 2025 - June 2025 | FST Settat*
+- **Description:** Implementation of an OCR and AI solution for the automatic extraction of information from birth certificates. Designed a simple and intuitive user interface.
+- **Tech Stack:** Python, YOLOv8, RAG (Retrieval-Augmented Generation).
 
-- **🎓 Social Network for PhDs**
-  *A social platform developed with Laravel, Angular, and Bootstrap.*
+#### 🎓 Social Network for PhD Graduates (PFE Internship)
+> *April 2024 - June 2024 | Pôle d'Étude Doctorale, Cité d'Innovation UH1*
+- **Description:** Design and realization of a social platform dedicated to PhD graduates to facilitate networking and collaboration.
+- **Tech Stack:** Laravel, Angular, Bootstrap.
 
-- **🛍️ Product Management App**
-  *Full-stack app with Spring Boot & React, containerized with Docker & Kubernetes.*
+#### 🛍️ Product Management App (Full Stack & DevOps)
+- **Description:** Development of a secure full-stack application (CRUD + Security). The project follows a complete DevOps lifecycle.
+- **Tech Stack:** Spring Boot, React.
+- **DevOps:** Docker (Containerization), Kubernetes (Orchestration), GitHub Actions (CI/CD).
+- *Current Focus:* Integrating Terraform and deploying to Azure Cloud.
 
-- **🤖 AI Assistant**
-  *Desktop app integrating Gemini AI (Electron, Node.js).*
+#### 🤖 AI Assistant Desktop App
+- **Description:** Development of a desktop application integrating the Gemini AI model to assist users.
+- **Tech Stack:** Electron, Node.js, Gemini AI.
+- **DevOps:** CI/CD pipeline with Docker, GitHub Actions, and Kubernetes.
+
+#### 🧠 GNN Model Optimization for Segmentation (DeepCut)
+- **Description:** Improved the performance of a segmentation model based on Graph Neural Networks (GNN) by tuning hyperparameters and training on an annotated dataset.
+
+#### 📱 Mobile E-Commerce Application
+- **Description:** Development of a mobile e-commerce application including product catalog management, user authentication, cart, and order processing.
+- **Tech Stack:** Flutter.
+
+#### 🏫 College Administrative Management App
+- **Description:** Development of a solution for classroom allocation and absence management, including schedule optimization algorithms.
+- **Tech Stack:** Java.
 
 ---
 
