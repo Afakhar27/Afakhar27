@@ -22,10 +22,8 @@ I love bridging the gap between development and operations with a **DevOps** min
 ### 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afakhar27&show_icons=true&theme=radical&hide_border=true)](https://github.com/Afakhar27)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afakhar27&layout=compact&theme=radical&hide_border=true)](https://github.com/Afakhar27)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afakhar27&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Afakhar27's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afakhar27&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
