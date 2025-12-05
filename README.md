@@ -57,8 +57,8 @@ I love bridging the gap between development and operations with a **DevOps** min
 
 ### 📊 GitHub Stats
 
-<!-- GitHub Stats (Vercel API - Plus stable) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Afakhar27&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
