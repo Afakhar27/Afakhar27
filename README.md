@@ -58,7 +58,7 @@ I love bridging the gap between development and operations with a **DevOps** min
 ### 📊 GitHub Stats
 
 <!-- Streak Stats (Public API) -->
-<img src="https://streak-stats.demolab.com?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afakhar27&theme=radical" alt="GitHub Streak" />
 
 </div>
 
