@@ -123,3 +123,24 @@ I love bridging the gap between development and operations with a **DevOps** min
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afakhariikram@gmail.com)
 
 </div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<!-- Streak Stats (Public API) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<!-- Ces cartes seront générées par l'action GitHub une fois exécutée -->
+<!-- Elles incluront vos dépôts privés si le token est configuré -->
+<img src="./profile-summary-card-output/default/0-profile-details.svg" width="45%" />
+<img src="./profile-summary-card-output/default/2-most-commit-language.svg" width="45%" />
+<br>
+<img src="./profile-summary-card-output/default/3-stats.svg" width="45%" />
+<img src="./profile-summary-card-output/default/4-productive-time.svg" width="45%" />
+
+</div>
