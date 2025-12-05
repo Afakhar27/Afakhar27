@@ -2,7 +2,7 @@
   <h1 align="center">👋 Hi there, I'm Ikram Afakhar! 👩‍💻</h1>
   <h3 align="center">✨ Master’s student in Networks and Computer Systems | Full Stack & DevOps Enthusiast 🚀</h3>
   <p align="center">
-     <i>"Coding with passion, deploying with precision."</i> 💖
+     <i>Coding with passion, deploying with precision</i> 💖
   </p>
 </div>
 
@@ -10,12 +10,22 @@
 
 ### 💫 About Me
 
-I am a **Software Engineering Student** passionate about building beautiful & scalable web applications. 
-Currently pursuing a Master's degree in **Networks and Computer Systems**, I love bridging the gap between development and operations with a **DevOps** mindset. 🔥
+I am a **Master's Student** in Networks and Computer Systems passionate about building beautiful & scalable web applications. 
+I love bridging the gap between development and operations with a **DevOps** mindset. 🔥
 
 - 🎓 **Master's Student** @ FST Settat (2024-2026)
+- 🔭 Working on **Spring Boot & React** projects & **Cloud Infrastructure**
 - 🌱 Learning **Advanced DevOps** & **Cloud Architecture**
 - 💼 Looking for a **PFE (End of Studies) Internship**
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afakhar27&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afakhar27&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+</div>
 
 ---
 
