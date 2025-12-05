@@ -24,7 +24,8 @@ I love bridging the gap between development and operations with a **DevOps** min
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afakhar27&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Afakhar27&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- L'image ci-dessous sera générée automatiquement par l'action GitHub une fois configurée -->
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
 
 </div>
 
