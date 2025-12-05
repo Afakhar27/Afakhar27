@@ -22,8 +22,6 @@ Currently pursuing a Master's degree in **Networks and Computer Systems**, I lov
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-
 #### 💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,8 +47,6 @@ Currently pursuing a Master's degree in **Networks and Computer Systems**, I lov
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
 
 ---
 
