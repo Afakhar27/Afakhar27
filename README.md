@@ -52,12 +52,15 @@ Currently pursuing a Master's degree in **Networks and Computer Systems**, I lov
 
 ### 🏆 Certifications
 
-| Certification | Organization |
-| :--- | :--- |
-| ☁️ **Getting Started with DevOps on AWS** | AWS |
-| 🏗️ **OCI DevOps Professional** | Oracle |
-| ☁️ **OCI Foundations Associate** | Oracle |
-| 🛡️ **Introduction to Cybersecurity** | Cisco |
+| Certification | Organization | Date |
+| :--- | :--- | :--- |
+| ☁️ **AWS Amazon EKS Primer** | AWS | Nov 2025 |
+| ☁️ **Getting Started with DevOps on AWS** | AWS | Nov 2025 |
+| ☁️ **AWS Cloud Essentials** | AWS | Nov 2025 |
+| 🏗️ **OCI DevOps Professional** | Oracle | Oct 2025 |
+| 🏗️ **OCI Developer Professional** | Oracle | Oct 2025 |
+| ☁️ **OCI Foundations Associate** | Oracle | Oct 2025 |
+| 🛡️ **Introduction to Cybersecurity** | Cisco Networking Academy | Aug 2025 |
 
 ---
 
