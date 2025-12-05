@@ -14,7 +14,6 @@ I am a **Master's Student** in Networks and Computer Systems passionate about bu
 I love bridging the gap between development and operations with a **DevOps** mindset. 🔥
 
 - 🎓 **Master's Student** @ FST Settat (2024-2026)
-- 🔭 Working on **Spring Boot & React** projects & **Cloud Infrastructure**
 - 🌱 Learning **Advanced DevOps** & **Cloud Architecture**
 - 💼 Looking for a **PFE (End of Studies) Internship**
 
@@ -23,8 +22,10 @@ I love bridging the gap between development and operations with a **DevOps** min
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afakhar27&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afakhar27&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afakhar27&show_icons=true&theme=radical&hide_border=true)](https://github.com/Afakhar27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afakhar27&layout=compact&theme=radical&hide_border=true)](https://github.com/Afakhar27)
+
 </div>
 
 ---
