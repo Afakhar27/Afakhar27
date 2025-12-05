@@ -19,18 +19,6 @@ I love bridging the gap between development and operations with a **DevOps** min
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afakhar27&theme=radical)](https://git.io/streak-stats)
-<!-- L'image ci-dessous sera générée automatiquement par l'action GitHub une fois configurée -->
-<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
-
-</div>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Languages
@@ -62,6 +50,17 @@ I love bridging the gap between development and operations with a **DevOps** min
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<!-- Streak Stats (Public API) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
@@ -125,12 +124,3 @@ I love bridging the gap between development and operations with a **DevOps** min
 </div>
 
 ---
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<!-- Streak Stats (Public API) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
