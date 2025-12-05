@@ -137,10 +137,10 @@ I love bridging the gap between development and operations with a **DevOps** min
 
 <!-- Ces cartes seront générées par l'action GitHub une fois exécutée -->
 <!-- Elles incluront vos dépôts privés si le token est configuré -->
-<img src="./profile-summary-card-output/default/0-profile-details.svg" width="45%" />
-<img src="./profile-summary-card-output/default/2-most-commit-language.svg" width="45%" />
+<img src="./profile-summary-card-output/radical/0-profile-details.svg" width="45%" />
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="45%" />
 <br>
-<img src="./profile-summary-card-output/default/3-stats.svg" width="45%" />
-<img src="./profile-summary-card-output/default/4-productive-time.svg" width="45%" />
+<img src="./profile-summary-card-output/radical/3-stats.svg" width="45%" />
+<img src="./profile-summary-card-output/radical/4-productive-time.svg" width="45%" />
 
 </div>
