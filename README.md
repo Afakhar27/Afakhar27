@@ -1,15 +1,15 @@
 <div align="center">
   <h1 align="center">👋 Hi there, I'm Ikram Afakhar! 👩‍💻</h1>
   
-  <!-- Dynamic Typing Effect -->
+  <!-- Dynamic Typing Effect - Pink Color -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Master's+Student+in+Networks;DevOps+%26+Cloud+Enthusiast;Full+Stack+Developer;Coding+with+passion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F778BA&center=true&vCenter=true&width=435&lines=Master's+Student+in+Networks;DevOps+%26+Cloud+Enthusiast;Full+Stack+Developer;Coding+with+passion+💖" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <p align="center">
-     <i>Coding with passion, deploying with precision</i> 💖
+     <i>✨ Coding with passion, deploying with precision ✨</i>
   </p>
 
   <br/>
@@ -17,7 +17,7 @@
   <!-- About Me Centered -->
   <p align="center">
     I am a **Master's Student** in Networks and Computer Systems passionate about building beautiful & scalable web applications.<br/>
-    I love bridging the gap between development and operations with a **DevOps** mindset. 🔥
+    I love bridging the gap between development and operations with a **DevOps** mindset. 💅
   </p>
 
   <p align="center">
@@ -27,11 +27,11 @@
   </p>
 </div>
 
----
+<div align="center">🌸 ════════════════════════════════════ 🌸</div>
 
 <div align="center">
 
-### 🛠️ Tech Stack & Tools
+### 🎀 Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -43,18 +43,18 @@
 
 </div>
 
----
+<div align="center">🌸 ════════════════════════════════════ 🌸</div>
 
 <div align="center">
 
 ### 📊 GitHub Stats
 
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!-- GitHub Streak Stats - Purple/Pink Theme -->
+<img src="https://streak-stats.demolab.com?user=Afakhar27&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
----
+<div align="center">🌸 ════════════════════════════════════ 🌸</div>
 
 ### 🏆 Certifications
 
@@ -68,9 +68,9 @@
 | ☁️ **OCI Foundations Associate** | Oracle | Oct 2025 |
 | 🛡️ **Introduction to Cybersecurity** | Cisco Networking Academy | Aug 2025 |
 
----
+<div align="center">🌸 ════════════════════════════════════ 🌸</div>
 
-### 🎀 Featured Projects
+### 💖 Featured Projects
 
 #### 📄 OCR & AI Extraction (PFA Project)
 > *April 2025 - June 2025 | FST Settat*
@@ -113,7 +113,7 @@
 >
 > 🛠️ **Stack:** `Java`
 
----
+<div align="center">🌸 ════════════════════════════════════ 🌸</div>
 
 <div align="center">
 
