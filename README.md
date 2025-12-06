@@ -26,13 +26,7 @@ I love bridging the gap between development and operations with a **DevOps** min
 
 <div align="center">
 
-### 📊 GitHub Analytics
-
-<!-- Stats & Languages Side by Side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afakhar27&show_icons=true&theme=radical&count_private=true" alt="Ikram's Github Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afakhar27&layout=compact&theme=radical&count_private=true" alt="Top Langs" height="180"/>
-</p>
+### 📊 GitHub Stats
 
 <!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -132,11 +126,5 @@ I love bridging the gap between development and operations with a **DevOps** min
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-afakhar-0665a7266)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afakhariikram@gmail.com)
-
-<br />
-<br />
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Afakhar27&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
 </div>
