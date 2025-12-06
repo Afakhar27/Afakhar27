@@ -23,20 +23,11 @@
     I love bridging the gap between development and operations with a <b><font color="#8A2BE2">DevOps</font></b> mindset. 🔥
   </p>
 
-  <table align="center" style="border-collapse:collapse;border:none;">
-    <tr>
-      <td style="border:none;">🎓</td>
-      <td style="border:none;"><b><font color="#8A2BE2">Master's Student</font></b> @ FST Settat (2024-2026)</td>
-    </tr>
-    <tr>
-      <td style="border:none;">🌱</td>
-      <td style="border:none;">Learning <b><font color="#8A2BE2">Advanced DevOps</font></b> & <b><font color="#8A2BE2">Cloud Architecture</font></b></td>
-    </tr>
-    <tr>
-      <td style="border:none;">💼</td>
-      <td style="border:none;">Looking for a <b><font color="#8A2BE2">PFE (End of Studies) Internship</font></b></td>
-    </tr>
-  </table>
+  <p align="center">
+    🎓 <b><font color="#8A2BE2">Master's Student</font></b> @ FST Settat (2024-2026)<br/>
+    🌱 Learning <b><font color="#8A2BE2">Advanced DevOps</font></b> & <b><font color="#8A2BE2">Cloud Architecture</font></b><br/>
+    💼 Looking for a <b><font color="#8A2BE2">PFE (End of Studies) Internship</font></b>
+  </p>
 </div>
 
 ---
