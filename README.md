@@ -16,18 +16,18 @@
 
   <!-- About Me Centered -->
   <p align="center">
-    I am a **Master's Student** in Networks and Computer Systems passionate about building beautiful & scalable web applications.<br/>
-    I love bridging the gap between development and operations with a **DevOps** mindset. 💅
+    I am a <img src="https://img.shields.io/badge/Master's%20Student-8A2BE2?style=flat-square" alt="Master's Student"/> in Networks and Computer Systems passionate about building beautiful & scalable web applications.<br/>
+    I love bridging the gap between development and operations with a <img src="https://img.shields.io/badge/DevOps-8A2BE2?style=flat-square" alt="DevOps"/> mindset. 💅
   </p>
 
   <p align="center">
-    🎓 **Master's Student** @ FST Settat (2024-2026)<br/>
-    🌱 Learning **Advanced DevOps** & **Cloud Architecture**<br/>
-    💼 Looking for a **PFE (End of Studies) Internship**
+    🎓 <img src="https://img.shields.io/badge/Master's%20Student-8A2BE2?style=flat-square" alt="Master's Student"/> @ FST Settat (2024-2026)<br/>
+    🌱 Learning <img src="https://img.shields.io/badge/Advanced%20DevOps-8A2BE2?style=flat-square" alt="Advanced DevOps"/> & <img src="https://img.shields.io/badge/Cloud%20Architecture-8A2BE2?style=flat-square" alt="Cloud Architecture"/><br/>
+    💼 Looking for a <img src="https://img.shields.io/badge/PFE%20(End%20of%20Studies)%20Internship-8A2BE2?style=flat-square" alt="PFE Internship"/>
   </p>
 </div>
 
-<div align="center">🌸 ════════════════════════════════════ 🌸</div>
+<img src="https://placehold.co/1000x2/8A2BE2/8A2BE2.png" alt="purple divider" width="100%" />
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 </div>
 
-<div align="center">🌸 ════════════════════════════════════ 🌸</div>
+<img src="https://placehold.co/1000x2/8A2BE2/8A2BE2.png" alt="purple divider" width="100%" />
 
 <div align="center">
 
@@ -54,9 +54,10 @@
 
 </div>
 
-<div align="center">🌸 ════════════════════════════════════ 🌸</div>
+<img src="https://placehold.co/1000x2/8A2BE2/8A2BE2.png" alt="purple divider" width="100%" />
 
 ### 🏆 Certifications
+<div align="center">
 
 | Certification | Organization | Date |
 | :--- | :--- | :--- |
@@ -67,8 +68,8 @@
 | 🏗️ **OCI Developer Professional** | Oracle | Oct 2025 |
 | ☁️ **OCI Foundations Associate** | Oracle | Oct 2025 |
 | 🛡️ **Introduction to Cybersecurity** | Cisco Networking Academy | Aug 2025 |
-
-<div align="center">🌸 ════════════════════════════════════ 🌸</div>
+</div>
+<img src="https://placehold.co/1000x2/8A2BE2/8A2BE2.png" alt="purple divider" width="100%" />
 
 ### 💖 Featured Projects
 
@@ -113,7 +114,7 @@
 >
 > 🛠️ **Stack:** `Java`
 
-<div align="center">🌸 ════════════════════════════════════ 🌸</div>
+<img src="https://placehold.co/1000x2/8A2BE2/8A2BE2.png" alt="purple divider" width="100%" />
 
 <div align="center">
 
