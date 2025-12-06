@@ -3,7 +3,7 @@
   
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Master's+Student+in+Networks;DevOps+%26+Cloud+Enthusiast;Full+Stack+Developer;Coding+with+passion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Master's+Student+in+Networks;DevOps+%26+Cloud+Enthusiast;Full+Stack+Developer;Coding+with+passion" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -16,14 +16,14 @@
 
   <!-- About Me Centered -->
   <p align="center">
-    I am a <b>Master's Student</b> in Networks and Computer Systems passionate about building beautiful & scalable web applications.<br/>
-    I love bridging the gap between development and operations with a <b>DevOps</b> mindset. 🔥
+    I am a <b><font color="#8A2BE2">Master's Student</font></b> in Networks and Computer Systems passionate about building beautiful & scalable web applications.<br/>
+    I love bridging the gap between development and operations with a <b><font color="#8A2BE2">DevOps</font></b> mindset. 🔥
   </p>
 
   <p align="center">
-    🎓 <b>Master's Student</b> @ FST Settat (2024-2026)<br/>
-    🌱 Learning <b>Advanced DevOps</b> & <b>Cloud Architecture</b><br/>
-    💼 Looking for a <b>PFE (End of Studies) Internship</b>
+    🎓 <b><font color="#8A2BE2">Master's Student</font></b> @ FST Settat (2024-2026)<br/>
+    🌱 Learning <b><font color="#8A2BE2">Advanced DevOps</font></b> & <b><font color="#8A2BE2">Cloud Architecture</font></b><br/>
+    💼 Looking for a <b><font color="#8A2BE2">PFE (End of Studies) Internship</font></b>
   </p>
 </div>
 
@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 <div align="center">
 <!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Afakhar27&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
