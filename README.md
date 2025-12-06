@@ -3,7 +3,7 @@
   
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Master's+Student+in+Networks+and+Computer+Systems;DevOps+%26+Cloud+Enthusiast;Full+Stack+Developer;Coding+with+passion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Master%27s+Student+in+Networks+and+Computer+Systems;DevOps+%26+Cloud+Enthusiast;Full+Stack+Developer;Coding+with+passion" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -56,7 +56,7 @@
 ---
 
 ### 🏆 Certifications
-
+<div align="center">
 | Certification | Organization | Date |
 | :--- | :--- | :--- |
 | ☁️ **AWS Amazon EKS Primer** | AWS | Nov 2025 |
@@ -66,7 +66,7 @@
 | 🏗️ **OCI Developer Professional** | Oracle | Oct 2025 |
 | ☁️ **OCI Foundations Associate** | Oracle | Oct 2025 |
 | 🛡️ **Introduction to Cybersecurity** | Cisco Networking Academy | Aug 2025 |
-
+</div>
 ---
 
 ### 🎀 Featured Projects
