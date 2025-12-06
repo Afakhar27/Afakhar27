@@ -116,6 +116,7 @@
 
 ### 📫 Let's Connect!
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-afakhar-0665a7266)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afakhariikram@gmail.com)
 
