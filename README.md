@@ -3,8 +3,10 @@
   
   <!-- Static Subtitle -->
   <h3 align="center">
-    Master's Student in Networks and Computer Systems | DevOps & Cloud Enthusiast 🚀<br/>
-    Full Stack Developer | Coding with passion
+    <font color="#8A2BE2">
+      Master's Student in Networks and Computer Systems | DevOps & Cloud Enthusiast 🚀<br/>
+      Full Stack Developer | Coding with passion
+    </font>
   </h3>
 
   <br/>
@@ -21,11 +23,20 @@
     I love bridging the gap between development and operations with a <b><font color="#8A2BE2">DevOps</font></b> mindset. 🔥
   </p>
 
-  <p align="center">
-    🎓 <b><font color="#8A2BE2">Master's Student</font></b> @ FST Settat (2024-2026)<br/>
-    🌱 Learning <b><font color="#8A2BE2">Advanced DevOps</font></b> & <b><font color="#8A2BE2">Cloud Architecture</font></b><br/>
-    💼 Looking for a <b><font color="#8A2BE2">PFE (End of Studies) Internship</font></b>
-  </p>
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>🎓</td>
+      <td><b><font color="#8A2BE2">Master's Student</font></b> @ FST Settat (2024-2026)</td>
+    </tr>
+    <tr>
+      <td>🌱</td>
+      <td>Learning <b><font color="#8A2BE2">Advanced DevOps</font></b> & <b><font color="#8A2BE2">Cloud Architecture</font></b></td>
+    </tr>
+    <tr>
+      <td>💼</td>
+      <td>Looking for a <b><font color="#8A2BE2">PFE (End of Studies) Internship</font></b></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -58,6 +69,7 @@
 
 ### 🏆 Certifications
 <div align="center">
+
 | Certification | Organization | Date |
 | :--- | :--- | :--- |
 | ☁️ **AWS Amazon EKS Primer** | AWS | Nov 2025 |
@@ -67,7 +79,9 @@
 | 🏗️ **OCI Developer Professional** | Oracle | Oct 2025 |
 | ☁️ **OCI Foundations Associate** | Oracle | Oct 2025 |
 | 🛡️ **Introduction to Cybersecurity** | Cisco Networking Academy | Aug 2025 |
+
 </div>
+
 ---
 
 ### 🎀 Featured Projects
