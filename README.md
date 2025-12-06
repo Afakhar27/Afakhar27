@@ -1,6 +1,11 @@
 <div align="center">
   <h1 align="center">👋 Hi there, I'm Ikram Afakhar! 👩‍💻</h1>
-  <h3 align="center">✨ Master’s student in Networks and Computer Systems | Full Stack & DevOps Enthusiast 🚀</h3>
+  
+  <!-- Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Master's+Student+in+Networks;DevOps+%26+Cloud+Enthusiast;Full+Stack+Developer;Coding+with+passion" alt="Typing SVG" />
+  </a>
+
   <p align="center">
      <i>Coding with passion, deploying with precision</i> 💖
   </p>
@@ -16,6 +21,23 @@ I love bridging the gap between development and operations with a **DevOps** min
 - 🎓 **Master's Student** @ FST Settat (2024-2026)
 - 🌱 Learning **Advanced DevOps** & **Cloud Architecture**
 - 💼 Looking for a **PFE (End of Studies) Internship**
+
+---
+
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<!-- Stats & Languages Side by Side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afakhar27&show_icons=true&theme=radical&count_private=true" alt="Ikram's Github Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afakhar27&layout=compact&theme=radical&count_private=true" alt="Top Langs" height="180"/>
+</p>
+
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
@@ -53,17 +75,6 @@ I love bridging the gap between development and operations with a **DevOps** min
 
 ---
 
-<div align="center">
-
-### 📊 GitHub Stats
-
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ### 🏆 Certifications
 
 | Certification | Organization | Date |
@@ -79,6 +90,7 @@ I love bridging the gap between development and operations with a **DevOps** min
 ---
 
 ### 🎀 Featured Projects
+<!-- Note: Since repos are private, descriptions are key -->
 
 #### 📄 OCR & AI Extraction (PFA Project)
 > *April 2025 - June 2025 | FST Settat*
@@ -120,5 +132,11 @@ I love bridging the gap between development and operations with a **DevOps** min
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-afakhar-0665a7266)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afakhariikram@gmail.com)
+
+<br />
+<br />
+
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=Afakhar27&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
 </div>
