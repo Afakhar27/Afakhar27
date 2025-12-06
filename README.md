@@ -57,13 +57,6 @@ I love bridging the gap between development and operations with a **DevOps** min
 
 ### 📊 GitHub Stats
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afakhar27&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</a>
-
-<br/>
-
 <!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
 
