@@ -1,10 +1,11 @@
 <div align="center">
   <h1 align="center">👋 Hi there, I'm Ikram Afakhar! 👩‍💻</h1>
   
-  <!-- Dynamic Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Master%27s+Student+in+Networks+and+Computer+Systems;DevOps+%26+Cloud+Enthusiast;Full+Stack+Developer;Coding+with+passion" alt="Typing SVG" />
-  </a>
+  <!-- Static Subtitle -->
+  <h3 align="center">
+    Master's Student in Networks and Computer Systems | DevOps & Cloud Enthusiast 🚀<br/>
+    Full Stack Developer | Coding with passion
+  </h3>
 
   <br/>
 
