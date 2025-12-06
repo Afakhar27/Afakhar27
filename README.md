@@ -16,23 +16,23 @@
 
   <!-- About Me Centered -->
   <p align="center">
-    I am a **Master's Student** in Networks and Computer Systems passionate about building beautiful & scalable web applications.<br/>
-    I love bridging the gap between development and operations with a **DevOps** mindset. 🔥
+    I am a <b>Master's Student</b> in Networks and Computer Systems passionate about building beautiful & scalable web applications.<br/>
+    I love bridging the gap between development and operations with a <b>DevOps</b> mindset. 🔥
   </p>
 
   <p align="center">
-    🎓 **Master's Student** @ FST Settat (2024-2026)<br/>
-    🌱 Learning **Advanced DevOps** & **Cloud Architecture**<br/>
-    💼 Looking for a **PFE (End of Studies) Internship**
+    🎓 <b>Master's Student</b> @ FST Settat (2024-2026)<br/>
+    🌱 Learning <b>Advanced DevOps</b> & <b>Cloud Architecture</b><br/>
+    💼 Looking for a <b>PFE (End of Studies) Internship</b>
   </p>
 </div>
 
 ---
 
-<div align="center">
+
 
 ### 🛠️ Tech Stack & Tools
-
+<div align="center">
 | Category | Technologies |
 | :--- | :--- |
 | **💻 Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
@@ -45,10 +45,8 @@
 
 ---
 
-<div align="center">
-
 ### 📊 GitHub Stats
-
+<div align="center">
 <!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
 
@@ -115,10 +113,8 @@
 
 ---
 
-<div align="center">
-
 ### 📫 Let's Connect!
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-afakhar-0665a7266)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afakhariikram@gmail.com)
 
