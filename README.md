@@ -64,8 +64,8 @@ I love bridging the gap between development and operations with a **DevOps** min
 
 <br/>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afakhar27&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Afakhar27&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
