@@ -3,10 +3,8 @@
   
   <!-- Static Subtitle -->
   <h3 align="center">
-    <font color="#8A2BE2">
-      Master's Student in Networks and Computer Systems | DevOps & Cloud Enthusiast 🚀<br/>
-      Full Stack Developer | Coding with passion
-    </font>
+    <font color="#8A2BE2">Master's Student</font> in Networks and Computer Systems | <font color="#8A2BE2">DevOps & Cloud Enthusiast</font> 🚀<br/>
+    <font color="#8A2BE2">Full Stack Developer</font> | Coding with passion
   </h3>
 
   <br/>
