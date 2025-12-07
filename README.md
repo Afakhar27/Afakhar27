@@ -15,9 +15,9 @@
 
   <div align="center">
     <div style="display: inline-block; text-align: left;">
-      🎓 <b><font color="#8A2BE2">Master's Student</font></b> @ FST Settat (2024-2026)<br/>
-      🌱 Learning <b><font color="#8A2BE2">Advanced DevOps</font></b> & <b><font color="#8A2BE2">Cloud Architecture</font></b><br/>
-      💼 Looking for a <b><font color="#8A2BE2">PFE (End of Studies) Internship</font></b>
+        <b><font color="#8A2BE2">Master's Student</font></b> @ FST Settat (2024-2026)<br/>
+        Learning <b><font color="#8A2BE2">Advanced DevOps</font></b> & <b><font color="#8A2BE2">Cloud Architecture</font></b><br/>
+        Looking for a <b><font color="#8A2BE2">PFE (End of Studies) Internship</font></b>
     </div>
   </div>
 </div>
