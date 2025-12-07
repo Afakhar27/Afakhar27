@@ -7,8 +7,6 @@
     <font color="#8A2BE2">Full Stack Developer</font>
   </p>
 
-  <br/>
-
   <p align="center">
      <i>Coding with passion, deploying with precision</i> 💖
   </p>
