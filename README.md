@@ -15,11 +15,7 @@
 
   <br/>
 
-  <!-- About Me Centered -->
-  <p align="center">
-    I am a <b><font color="#8A2BE2">Master's Student</font></b> in Networks and Computer Systems passionate about building beautiful & scalable web applications.<br/>
-    I love bridging the gap between development and operations with a <b><font color="#8A2BE2">DevOps</font></b> mindset. 🔥
-  </p>
+---
 
   <div align="center">
     <div style="display: inline-block; text-align: left;">
