@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">👋 Hi there, I'm Ikram Afakhar! 👩‍💻</h1>
+  <h1 align="center">👋🏻 Hi there, I'm Ikram Afakhar! 👩🏻‍💻</h1>
   
   <!-- Static Subtitle -->
   <p align="center">
