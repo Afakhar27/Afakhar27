@@ -15,8 +15,6 @@
 
   <br/>
 
----
-
   <div align="center">
     <div style="display: inline-block; text-align: left;">
       🎓 <b><font color="#8A2BE2">Master's Student</font></b> @ FST Settat (2024-2026)<br/>
