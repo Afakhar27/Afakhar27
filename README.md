@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-     <i>Coding with passion, deploying with precision</i> 💖
+     <i>Coding with passion, deploying with precision</i> 💖🖖🏻
   </p>
 
   <br/>
