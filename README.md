@@ -63,12 +63,12 @@
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/><br>MySQL</td>
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres"/><br>PostgreSQL</td>
   <td align="center" width="90"><img src="https://img.shields.io/badge/Oracle-DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="45" height="45" alt="Oracle DB"/><br>Oracle DB</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/CCNA-1-FF8800?style=for-the-badge" width="45" height="45" alt="CCNA1"/><br>CCNA1</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/CCNA-2-FF8800?style=for-the-badge" width="45" height="45" alt="CCNA2"/><br>CCNA2</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/YOLOv8-FF6F61?style=for-the-badge" width="45" height="45" alt="YOLOv8"/><br>YOLOv8</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge" width="45" height="45" alt="RAG"/><br>RAG</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/LLaMA-6B6BFF?style=for-the-badge" width="45" height="45" alt="LLaMA"/><br>LLaMA</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge" width="45" height="45" alt="Neural Networks"/><br>Neural Networks</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/CCNA-1-FF8800?style=for-the-badge&logo=cisco&logoColor=white" width="45" height="45" alt="CCNA1"/><br>CCNA1</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/CCNA-2-FF8800?style=for-the-badge&logo=cisco&logoColor=white" width="45" height="45" alt="CCNA2"/><br>CCNA2</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/YOLOv8-FF6F61?style=for-the-badge&logo=ultralytics&logoColor=white" width="45" height="45" alt="YOLOv8"/><br>YOLOv8</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge&logo=langchain&logoColor=white" width="45" height="45" alt="RAG"/><br>RAG</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/LLaMA-6B6BFF?style=for-the-badge&logo=meta&logoColor=white" width="45" height="45" alt="LLaMA"/><br>LLaMA</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge&logo=pytorch&logoColor=white" width="45" height="45" alt="Neural Networks"/><br>Neural Networks</td>
 </tr>
 </table>
 
