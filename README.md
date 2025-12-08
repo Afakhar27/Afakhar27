@@ -26,175 +26,50 @@
 
 ### 🛠️ Tech Stack & Tools
 <table align="center">
-
-<!-- LANGUAGES -->
 <tr>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
-    <br>Java
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
-    <br>Python
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/>
-    <br>JavaScript
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript"/>
-    <br>TypeScript
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++"/>
-    <br>C++
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/>
-    <br>C
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="SQL"/>
-    <br>SQL
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Shell"/>
-    <br>Shell
-  </td>
-  <td align="center" width="90">
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" width="45" height="45" alt="JSON"/>
-    <br>JSON
-  </td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/><br>Java</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/><br>Python</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/><br>JavaScript</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript"/><br>TypeScript</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++"/><br>C++</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/><br>C</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="SQL"/><br>SQL</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Shell"/><br>Shell</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" width="45" height="45" alt="JSON"/><br>JSON</td>
 </tr>
-
-<!-- FRAMEWORKS & LIBRARIES -->
 <tr>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring"/>
-    <br>Spring Boot
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
-    <br>Node.js
-  </td>
-  <td align="center" width="90">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React"/>
-    <br>React
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
-    <br>Next.js
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/>
-    <br>Angular
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel"/>
-    <br>Laravel
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/>
-    <br>Bootstrap
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/>
-    <br>Tailwind CSS
-  </td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring"/><br>Spring Boot</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/><br>Node.js</td>
+  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React"/><br>React</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/><br>Next.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/><br>Angular</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel"/><br>Laravel</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/><br>Bootstrap</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/><br>Tailwind CSS</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/><br>Docker</td>
 </tr>
-
-<!-- DEVOPS & CICD -->
 <tr>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
-    <br>Docker
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/>
-    <br>Kubernetes
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/>
-    <br>GitHub Actions
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins"/>
-    <br>Jenkins
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform"/>
-    <br>Terraform
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
-    <br>Git
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/>
-    <br>Postman
-  </td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/><br>Kubernetes</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/><br>GitHub Actions</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins"/><br>Jenkins</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform"/><br>Terraform</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/><br>Git</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/><br>Postman</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br>AWS</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure"/><br>Azure</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Oracle-Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" width="45" height="45" alt="Oracle Cloud"/><br>Oracle Cloud</td>
 </tr>
-
-<!-- CLOUD -->
 <tr>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/>
-    <br>AWS
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure"/>
-    <br>Azure
-  </td>
-  <td align="center" width="90">
-    <img src="https://img.shields.io/badge/Oracle-Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" width="45" height="45" alt="Oracle Cloud"/>
-    <br>Oracle Cloud
-  </td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/><br>MySQL</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres"/><br>PostgreSQL</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Oracle-DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="45" height="45" alt="Oracle DB"/><br>Oracle DB</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/CCNA-1-FF8800?style=for-the-badge" width="45" height="45" alt="CCNA1"/><br>CCNA1</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/CCNA-2-FF8800?style=for-the-badge" width="45" height="45" alt="CCNA2"/><br>CCNA2</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=wireshark" width="45" height="45" alt="Wireshark"/><br>Wireshark</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Nmap-0db7ed?style=for-the-badge&logo=nmap&logoColor=white" width="45" height="45" alt="Nmap"/><br>Nmap</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/SSL-TLS-111827?style=for-the-badge&logo=lock&logoColor=white" width="45" height="45" alt="SSL/TLS"/><br>SSL/TLS</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Firewall-FF8C00?style=for-the-badge&logo=shield&logoColor=white" width="45" height="45" alt="Firewall"/><br>Firewall</td>
 </tr>
-
-<!-- DATABASES -->
-<tr>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
-    <br>MySQL
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres"/>
-    <br>PostgreSQL
-  </td>
-  <td align="center" width="90">
-    <img src="https://img.shields.io/badge/Oracle-DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="45" height="45" alt="Oracle DB"/>
-    <br>Oracle DB
-  </td>
-</tr>
-
-<!-- TOOLS & ML -->
-<tr>
-  <td align="center" width="90">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" width="45" height="45" alt="Jira"/>
-    <br>Jira
-  </td>
-  <td align="center" width="90">
-    <img src="https://img.shields.io/badge/Scrum-Agile-44cc11?style=for-the-badge" width="45" height="45" alt="Scrum"/>
-    <br>Scrum
-  </td>
-  <td align="center" width="90">
-    <img src="https://img.shields.io/badge/YOLOv8-FF6F61?style=for-the-badge" width="45" height="45" alt="YOLOv8"/>
-    <br>YOLOv8
-  </td>
-  <td align="center" width="90">
-    <img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge" width="45" height="45" alt="RAG"/>
-    <br>RAG
-  </td>
-  <td align="center" width="90">
-    <img src="https://img.shields.io/badge/LLaMA-6B6BFF?style=for-the-badge" width="45" height="45" alt="LLaMA"/>
-    <br>LLaMA
-  </td>
-  <td align="center" width="90">
-    <img src="https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge" width="45" height="45" alt="Neural Networks"/>
-    <br>Neural Networks
-  </td>
-</tr>
-
 </table>
 
 ---
