@@ -146,7 +146,7 @@
     <br>Azure
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=39854&format=png" width="45" height="45" alt="Oracle Cloud"/>
+    <img src="https://img.shields.io/badge/Oracle-Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" width="45" height="45" alt="Oracle Cloud"/>
     <br>Oracle Cloud
   </td>
 </tr>
@@ -170,11 +170,11 @@
 <!-- NETWORK & SECURITY -->
 <tr>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=E8rQsG44rO0Z&format=png" width="45" height="45" alt="CCNA1"/>
+    <img src="https://img.shields.io/badge/CCNA-1-FF8800?style=for-the-badge" width="45" height="45" alt="CCNA1"/>
     <br>CCNA1
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=E8rQsG44rO0Z&format=png" width="45" height="45" alt="CCNA2"/>
+    <img src="https://img.shields.io/badge/CCNA-2-FF8800?style=for-the-badge" width="45" height="45" alt="CCNA2"/>
     <br>CCNA2
   </td>
   <td align="center" width="90">
@@ -210,7 +210,7 @@
     <br>DNS
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=UPVjs88o0V0A&format=png" width="45" height="45" alt="Packet Tracer"/>
+    <img src="https://img.shields.io/badge/Packet%20Tracer-Cisco-1DA1F2?style=for-the-badge" width="45" height="45" alt="Packet Tracer"/>
     <br>Packet Tracer
   </td>
 </tr>
@@ -234,11 +234,11 @@
     <br>SMTP
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=98960&format=png" width="45" height="45" alt="HTTP"/>
+    <img src="https://img.shields.io/badge/HTTP-HTTPS-4d76ff?style=for-the-badge" width="45" height="45" alt="HTTP/HTTPS"/>
     <br>HTTP/HTTPS
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=98960&format=png" width="45" height="45" alt="SSH"/>
+    <img src="https://img.shields.io/badge/SSH-secure-0078D4?style=for-the-badge" width="45" height="45" alt="SSH"/>
     <br>SSH
   </td>
   <td align="center" width="90">
@@ -254,11 +254,11 @@
     <br>Jira
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=0pU0sB85D0V7&format=png" width="45" height="45" alt="Scrum"/>
+    <img src="https://img.shields.io/badge/Scrum-Agile-44cc11?style=for-the-badge" width="45" height="45" alt="Scrum"/>
     <br>Scrum
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=0qxNXhN3GosH&format=png" width="45" height="45" alt="XP"/>
+    <img src="https://img.shields.io/badge/XP-Extreme%20Programming-FBCA04?style=for-the-badge" width="45" height="45" alt="XP"/>
     <br>XP
   </td>
   <td align="center" width="90">
