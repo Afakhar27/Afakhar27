@@ -15,9 +15,9 @@
 
   <div align="center">
     <div style="display: inline-block; text-align: left;">
-        <b><font color="#8A2BE2">Master's Student</font></b> @ FST Settat (2024-2026)<br/>
-        Learning <b><font color="#8A2BE2">Advanced DevOps</font></b> & <b><font color="#8A2BE2">Cloud Architecture</font></b><br/>
-        Looking for a <b><font color="#8A2BE2">PFE (End of Studies) Internship</font></b>
+        <b><span style="color:#8A2BE2">Master's Student</span></b> @ FST Settat (2024-2026)<br/>
+        Learning <b><span style="color:#8A2BE2">Advanced DevOps</span></b> & <b><span style="color:#8A2BE2">Cloud Architecture</span></b><br/>
+        Looking for a <b><span style="color:#8A2BE2">PFE (End of Studies) Internship</span></b>
     </div>
   </div>
 </div>
@@ -162,7 +162,7 @@
     <br>PostgreSQL
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=39854&format=png" width="45" height="45" alt="Oracle DB"/>
+    <img src="https://img.shields.io/badge/Oracle-DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="45" height="45" alt="Oracle DB"/>
     <br>Oracle DB
   </td>
 </tr>
@@ -186,11 +186,11 @@
     <br>Nmap
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=9990&format=png" width="45" height="45" alt="SSL"/>
+    <img src="https://img.shields.io/badge/SSL-TLS-111827?style=for-the-badge&logo=lock&logoColor=white" width="45" height="45" alt="SSL/TLS"/>
     <br>SSL/TLS
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=4821&format=png" width="45" height="45" alt="Firewall"/>
+    <img src="https://img.shields.io/badge/Firewall-FF8C00?style=for-the-badge&logo=shield&logoColor=white" width="45" height="45" alt="Firewall"/>
     <br>Firewall
   </td>
   <td align="center" width="90">
