@@ -62,7 +62,7 @@
     <br>Shell
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=7703&format=png" width="45" height="45" alt="JSON"/>
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" width="45" height="45" alt="JSON"/>
     <br>JSON
   </td>
 </tr>
@@ -182,7 +182,7 @@
     <br>Wireshark
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=88811&format=png" width="45" height="45" alt="Nmap"/>
+    <img src="https://img.shields.io/badge/Nmap-0db7ed?style=for-the-badge&logo=nmap&logoColor=white" width="45" height="45" alt="Nmap"/>
     <br>Nmap
   </td>
   <td align="center" width="90">
@@ -194,7 +194,7 @@
     <br>Firewall
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=10497&format=png" width="45" height="45" alt="Cryptography"/>
+    <img src="https://img.shields.io/badge/Cryptography-7B61FF?style=for-the-badge" width="45" height="45" alt="Cryptography"/>
     <br>Cryptography
   </td>
 </tr>
@@ -202,11 +202,11 @@
 <!-- NETWORK 2 -->
 <tr>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=9999&format=png" width="45" height="45" alt="DHCP"/>
+    <img src="https://img.shields.io/badge/DHCP-Network-00AEEF?style=for-the-badge" width="45" height="45" alt="DHCP"/>
     <br>DHCP
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=9999&format=png" width="45" height="45" alt="DNS"/>
+    <img src="https://img.shields.io/badge/DNS-Network-FFB703?style=for-the-badge" width="45" height="45" alt="DNS"/>
     <br>DNS
   </td>
   <td align="center" width="90">
@@ -226,11 +226,11 @@
     <br>Windows
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=11280&format=png" width="45" height="45" alt="FTP"/>
+    <img src="https://img.shields.io/badge/FTP-00AEEF?style=for-the-badge&logo=ftp&logoColor=white" width="45" height="45" alt="FTP"/>
     <br>FTP
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=11180&format=png" width="45" height="45" alt="SMTP"/>
+    <img src="https://img.shields.io/badge/SMTP-D14836?style=for-the-badge&logo=mailchimp&logoColor=white" width="45" height="45" alt="SMTP"/>
     <br>SMTP
   </td>
   <td align="center" width="90">
@@ -242,7 +242,7 @@
     <br>SSH
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=80888&format=png" width="45" height="45" alt="Telnet"/>
+    <img src="https://img.shields.io/badge/Telnet-777777?style=for-the-badge" width="45" height="45" alt="Telnet"/>
     <br>Telnet
   </td>
 </tr>
@@ -262,19 +262,19 @@
     <br>XP
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=104126&format=png" width="45" height="45" alt="YOLO"/>
+    <img src="https://img.shields.io/badge/YOLOv8-FF6F61?style=for-the-badge" width="45" height="45" alt="YOLOv8"/>
     <br>YOLOv8
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=104126&format=png" width="45" height="45" alt="RAG"/>
+    <img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge" width="45" height="45" alt="RAG"/>
     <br>RAG
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=104126&format=png" width="45" height="45" alt="LLaMA"/>
+    <img src="https://img.shields.io/badge/LLaMA-6B6BFF?style=for-the-badge" width="45" height="45" alt="LLaMA"/>
     <br>LLaMA
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=512&id=104126&format=png" width="45" height="45" alt="Neural Networks"/>
+    <img src="https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge" width="45" height="45" alt="Neural Networks"/>
     <br>Neural Networks
   </td>
 </tr>
