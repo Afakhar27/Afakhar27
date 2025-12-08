@@ -26,9 +26,9 @@
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
-  <p align="center">
-    <span style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; max-width:980px;">
-      <!-- Languages & data formats -->
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; max-width:980px; margin:0 auto;">
+
+    <span title="Languages & data formats" style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -38,8 +38,9 @@
       <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img alt="Shell" src="https://img.shields.io/badge/Shell-BE1E2D?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+    </span>
 
-      <!-- Frameworks & front/back -->
+    <span title="Frameworks & front/back" style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
       <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
       <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -48,8 +49,9 @@
       <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </span>
 
-      <!-- DevOps & CI/CD -->
+    <span title="DevOps & CI/CD" style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
       <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
       <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
       <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -57,18 +59,21 @@
       <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </span>
 
-      <!-- Cloud -->
+    <span title="Cloud" style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
       <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
       <img alt="Azure" src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
       <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
+    </span>
 
-      <!-- Databases -->
+    <span title="Databases" style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
       <img alt="Postgres" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img alt="Oracle" src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
+    </span>
 
-      <!-- Network & Security -->
+    <span title="Network & Security" style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
       <img alt="CCNA1" src="https://img.shields.io/badge/CCNA1-00C853?style=for-the-badge" />
       <img alt="CCNA2" src="https://img.shields.io/badge/CCNA2-00C853?style=for-the-badge" />
       <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-2A2A72?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -79,8 +84,9 @@
       <img alt="DHCP" src="https://img.shields.io/badge/DHCP-4C9AFF?style=for-the-badge" />
       <img alt="DNS" src="https://img.shields.io/badge/DNS-4C9AFF?style=for-the-badge" />
       <img alt="Packet Tracer" src="https://img.shields.io/badge/Packet%20Tracer-FFB400?style=for-the-badge" />
+    </span>
 
-      <!-- OS & Protocols -->
+    <span title="OS & Protocols" style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
       <img alt="Linux" src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
       <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
       <img alt="FTP" src="https://img.shields.io/badge/FTP-009688?style=for-the-badge&logo=ftp&logoColor=white" />
@@ -89,8 +95,9 @@
       <img alt="SSH" src="https://img.shields.io/badge/SSH-4CAF50?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
       <img alt="Telnet" src="https://img.shields.io/badge/Telnet-607D8B?style=for-the-badge" />
       <img alt="SNMP" src="https://img.shields.io/badge/SNMP-8A2BE2?style=for-the-badge" />
+    </span>
 
-      <!-- Tools & ML -->
+    <span title="Tools & ML" style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
       <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
       <img alt="Scrum" src="https://img.shields.io/badge/Scrum-00A3E0?style=for-the-badge" />
       <img alt="XP" src="https://img.shields.io/badge/XP-FF6A00?style=for-the-badge" />
@@ -99,7 +106,8 @@
       <img alt="LLaMA" src="https://img.shields.io/badge/LLaMA-8A2BE2?style=for-the-badge" />
       <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge" />
     </span>
-  </p>
+
+  </div>
 </div>
 
 ---
