@@ -396,19 +396,6 @@
 
 ---
 
-### 🔍 Revue du projet (pour l'examinateur)
-
-- README clair et riche en contenu — bonne couverture du stack et des projets.
-- Points d'amélioration rapides :
-  - Remplacer balises HTML obsolètes (<font>) (déjà fait) et privilégier Markdown quand possible.
-  - Centraliser les icônes (ex. utilisation cohérente d'une source comme skillicons.dev) pour réduire les liens brisés.
-  - Ajouter un sommaire et des ancres pour faciliter la navigation (README long).
-  - Rendre les dates/Certifications consistantes et vérifier leur ordre chronologique.
-  - Ajouter un fichier CONTRIBUTING.md et LICENSE si le dépôt est public.
-- Suggestion technique : fournir un petit "how to run" pour chaque projet important (Docker/compose, commandes build).
-
----
-
 ### 📫 Let's Connect!
 <div align="center">
 
