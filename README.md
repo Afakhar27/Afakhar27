@@ -37,7 +37,6 @@
 | **🔒 Security & Networking** | ![Wireshark](https://img.shields.io/badge/Wireshark-2A2A72?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-9BC400?style=for-the-badge&logo=nmap&logoColor=white) ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-0A84FF?style=for-the-badge) ![DHCP%20%26%20DNS](https://img.shields.io/badge/DHCP%20%26%20DNS-4C9AFF?style=for-the-badge) ![Firewall](https://img.shields.io/badge/Firewall-FF6B6B?style=for-the-badge) ![Cryptography](https://img.shields.io/badge/Cryptography-A335EE?style=for-the-badge) ![Packet%20Tracer](https://img.shields.io/badge/Packet%20Tracer-FFB400?style=for-the-badge) ![CCN1](https://img.shields.io/badge/CCN1-00C853?style=for-the-badge) ![CCN2](https://img.shields.io/badge/CCN2-00C853?style=for-the-badge) |
 | **📈 Project Management & Agile** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-00A3E0?style=for-the-badge) ![XP](https://img.shields.io/badge/XP-FF6A00?style=for-the-badge) |
 | **🤖 AI & Machine Learning** | ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F61?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge) ![LLaMA](https://img.shields.io/badge/LLaMA-8A2BE2?style=for-the-badge) ![Neural%20Networks](https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge) |
-| **🖥️ Systems & Protocols** | See below |
 
 </div>
 
@@ -46,7 +45,6 @@
 ### 🖥️ Systems & Protocols
 
 <p align="center">
-  <!-- each badge on its own line -->
   <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /><br/><br/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /><br/><br/>
   <img src="https://img.shields.io/badge/FTP-009688?style=for-the-badge&logo=ftp&logoColor=white" alt="FTP" /><br/><br/>
