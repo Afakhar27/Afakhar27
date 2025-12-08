@@ -76,11 +76,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<!-- GitHub summary (stable) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Afakhar27&show_icons=true&theme=shades-of-purple&count_private=true" alt="GitHub Stats" />
-<br/>
-<!-- GitHub Streak (fallback reliable endpoint) -->
-<img src="https://streak-stats.demolab.com/?user=Afakhar27&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afakhar27&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
