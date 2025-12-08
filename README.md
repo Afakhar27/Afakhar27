@@ -63,8 +63,8 @@
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/><br>MySQL</td>
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres"/><br>PostgreSQL</td>
   <td align="center" width="90"><img src="https://img.shields.io/badge/Oracle-DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="45" height="45" alt="Oracle DB"/><br>Oracle DB</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/CCNA-1-FF8800?style=for-the-badge&logo=cisco&logoColor=white" width="45" height="45" alt="CCNA1"/><br>CCNA1</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/CCNA-2-FF8800?style=for-the-badge&logo=cisco&logoColor=white" width="45" height="45" alt="CCNA2"/><br>CCNA2</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Scrum-Agile-44cc11?style=for-the-badge&logo=scrum&logoColor=white" width="45" height="45" alt="Scrum"/><br>Scrum</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" width="45" height="45" alt="Jira"/><br>Jira</td>
   <td align="center" width="90"><img src="https://img.shields.io/badge/YOLOv8-FF6F61?style=for-the-badge&logo=ultralytics&logoColor=white" width="45" height="45" alt="YOLOv8"/><br>YOLOv8</td>
   <td align="center" width="90"><img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge&logo=langchain&logoColor=white" width="45" height="45" alt="RAG"/><br>RAG</td>
   <td align="center" width="90"><img src="https://img.shields.io/badge/LLaMA-6B6BFF?style=for-the-badge&logo=meta&logoColor=white" width="45" height="45" alt="LLaMA"/><br>LLaMA</td>
