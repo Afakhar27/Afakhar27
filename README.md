@@ -178,10 +178,6 @@
     <br>Scrum
   </td>
   <td align="center" width="90">
-    <img src="https://img.shields.io/badge/XP-Extreme%20Programming-FBCA04?style=for-the-badge" width="45" height="45" alt="XP"/>
-    <br>XP
-  </td>
-  <td align="center" width="90">
     <img src="https://img.shields.io/badge/YOLOv8-FF6F61?style=for-the-badge" width="45" height="45" alt="YOLOv8"/>
     <br>YOLOv8
   </td>
