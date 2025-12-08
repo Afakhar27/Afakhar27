@@ -25,85 +25,265 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
+<table align="center">
 
-### 🛠️ Tech Stack & Tools
+<!-- LANGUAGES -->
+<tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
+    <br>Java
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
+    <br>Python
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/>
+    <br>JavaScript
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript"/>
+    <br>TypeScript
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++"/>
+    <br>C++
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/>
+    <br>C
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="SQL"/>
+    <br>SQL
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Shell"/>
+    <br>Shell
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=7703&format=png" width="45" height="45" alt="JSON"/>
+    <br>JSON
+  </td>
+</tr>
 
-<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center; background:#0b0b0b; padding:16px; border-radius:12px;">
+<!-- FRAMEWORKS -->
+<tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring"/>
+    <br>Spring
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
+    <br>Node.js
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
+    <br>Next.js
+  </td>
+  <td align="center" width="90">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React"/>
+    <br>React
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/>
+    <br>Angular
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel"/>
+    <br>Laravel
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/>
+    <br>Bootstrap
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/>
+    <br>Tailwind CSS
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=59827&format=png" width="45" height="45" alt="REST API"/>
+    <br>API REST
+  </td>
+</tr>
 
-  <!-- Languages & Data Formats -->
-  <img src="https://skillicons.dev/icons?i=java" width="68" title="Java" />
-  <img src="https://skillicons.dev/icons?i=python" width="68" title="Python" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="68" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="68" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="68" title="C++" />
-  <img src="https://skillicons.dev/icons?i=c" width="68" title="C" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="68" title="SQL" />
-  <img src="https://skillicons.dev/icons?i=bash" width="68" title="Shell" />
-  <!-- JSON fallback to shields -->
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="28" title="JSON" />
+<!-- DEVOPS & CICD -->
+<tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
+    <br>Docker
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/>
+    <br>Kubernetes
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/>
+    <br>GitHub Actions
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins"/>
+    <br>Jenkins
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform"/>
+    <br>Terraform
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
+    <br>Git
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/>
+    <br>Postman
+  </td>
+</tr>
 
-  <!-- Frameworks & Front/Back -->
-  <img src="https://skillicons.dev/icons?i=spring" width="68" title="Spring" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="68" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="68" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=react" width="68" title="React" />
-  <img src="https://skillicons.dev/icons?i=angular" width="68" title="Angular" />
-  <img src="https://skillicons.dev/icons?i=laravel" width="68" title="Laravel" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="68" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="68" title="Tailwind CSS" />
+<!-- CLOUD -->
+<tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/>
+    <br>AWS
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure"/>
+    <br>Azure
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=39854&format=png" width="45" height="45" alt="Oracle Cloud"/>
+    <br>Oracle Cloud
+  </td>
+</tr>
 
-  <!-- DevOps & CI/CD -->
-  <img src="https://skillicons.dev/icons?i=docker" width="68" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="68" title="Kubernetes" />
-  <img src="https://skillicons.dev/icons?i=githubactions" width="68" title="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=jenkins" width="68" title="Jenkins" />
-  <img src="https://skillicons.dev/icons?i=terraform" width="68" title="Terraform" />
-  <img src="https://skillicons.dev/icons?i=git" width="68" title="Git" />
-  <img src="https://skillicons.dev/icons?i=postman" width="68" title="Postman" />
+<!-- DATABASES -->
+<tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
+    <br>MySQL
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres"/>
+    <br>Postgres
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=39854&format=png" width="45" height="45" alt="Oracle"/>
+    <br>Oracle
+  </td>
+</tr>
 
-  <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws" width="68" title="AWS" />
-  <img src="https://skillicons.dev/icons?i=azure" width="68" title="Azure" />
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" height="28" title="Oracle Cloud" />
+<!-- NETWORK & SECURITY -->
+<tr>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=E8rQsG44rO0Z&format=png" width="45" height="45" alt="CCNA1"/>
+    <br>CCNA1
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=E8rQsG44rO0Z&format=png" width="45" height="45" alt="CCNA2"/>
+    <br>CCNA2
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=wireshark" width="45" height="45" alt="Wireshark"/>
+    <br>Wireshark
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=88811&format=png" width="45" height="45" alt="Nmap"/>
+    <br>Nmap
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=9990&format=png" width="45" height="45" alt="SSL"/>
+    <br>SSL/TLS
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=4821&format=png" width="45" height="45" alt="Firewall"/>
+    <br>Firewall
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=10497&format=png" width="45" height="45" alt="Cryptography"/>
+    <br>Cryptography
+  </td>
+</tr>
 
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" width="68" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="68" title="Postgres" />
-  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" height="28" title="Oracle DB" />
+<!-- NETWORK 2 -->
+<tr>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=9999&format=png" width="45" height="45" alt="DHCP"/>
+    <br>DHCP
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=9999&format=png" width="45" height="45" alt="DNS"/>
+    <br>DNS
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=UPVjs88o0V0A&format=png" width="45" height="45" alt="Packet Tracer"/>
+    <br>Packet Tracer
+  </td>
+</tr>
 
-  <!-- Network & Security -->
-  <!-- CCNA1 / CCNA2 as custom badges -->
-  <img src="https://img.shields.io/badge/CCNA1-00C853?style=for-the-badge" height="28" title="CCNA1" />
-  <img src="https://img.shields.io/badge/CCNA2-00C853?style=for-the-badge" height="28" title="CCNA2" />
-  <img src="https://skillicons.dev/icons?i=wireshark" width="68" title="Wireshark" />
-  <img src="https://skillicons.dev/icons?i=nmap" width="68" title="Nmap" />
-  <img src="https://img.shields.io/badge/SSL%2FTLS-0A84FF?style=for-the-badge" height="28" title="SSL/TLS" />
-  <img src="https://img.shields.io/badge/Firewall-FF6B6B?style=for-the-badge" height="28" title="Firewall" />
-  <img src="https://img.shields.io/badge/Cryptography-A335EE?style=for-the-badge" height="28" title="Cryptography" />
-  <img src="https://img.shields.io/badge/DHCP-4C9AFF?style=for-the-badge" height="28" title="DHCP" />
-  <img src="https://img.shields.io/badge/DNS-4C9AFF?style=for-the-badge" height="28" title="DNS" />
-  <img src="https://img.shields.io/badge/Packet%20Tracer-FFB400?style=for-the-badge" height="28" title="Packet Tracer" />
+<!-- OS & PROTOCOLS -->
+<tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"/>
+    <br>Linux
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=windows" width="45" height="45" alt="Windows"/>
+    <br>Windows
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=11280&format=png" width="45" height="45" alt="FTP"/>
+    <br>FTP
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=11180&format=png" width="45" height="45" alt="SMTP"/>
+    <br>SMTP
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=98960&format=png" width="45" height="45" alt="HTTP"/>
+    <br>HTTP/HTTPS
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=98960&format=png" width="45" height="45" alt="SSH"/>
+    <br>SSH
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=80888&format=png" width="45" height="45" alt="Telnet"/>
+    <br>Telnet
+  </td>
+</tr>
 
-  <!-- OS & Protocols -->
-  <img src="https://skillicons.dev/icons?i=linux" width="68" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=windows" width="68" title="Windows" />
-  <img src="https://img.shields.io/badge/FTP-009688?style=for-the-badge&logo=ftp&logoColor=white" height="28" title="FTP" />
-  <img src="https://img.shields.io/badge/SMTP-FF9800?style=for-the-badge" height="28" title="SMTP" />
-  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-2196F3?style=for-the-badge" height="28" title="HTTP/HTTPS" />
-  <img src="https://img.shields.io/badge/SSH-4CAF50?style=for-the-badge&logo=gnome-terminal&logoColor=white" height="28" title="SSH" />
-  <img src="https://img.shields.io/badge/Telnet-607D8B?style=for-the-badge" height="28" title="Telnet" />
-  <img src="https://img.shields.io/badge/SNMP-8A2BE2?style=for-the-badge" height="28" title="SNMP" />
+<!-- TOOLS & ML -->
+<tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=jira" width="45" height="45" alt="Jira"/>
+    <br>Jira
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=0pU0sB85D0V7&format=png" width="45" height="45" alt="Scrum"/>
+    <br>Scrum
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=0qxNXhN3GosH&format=png" width="45" height="45" alt="XP"/>
+    <br>XP
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=104126&format=png" width="45" height="45" alt="YOLO"/>
+    <br>YOLOv8
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=104126&format=png" width="45" height="45" alt="RAG"/>
+    <br>RAG
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=104126&format=png" width="45" height="45" alt="LLaMA"/>
+    <br>LLaMA
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=104126&format=png" width="45" height="45" alt="Neural Networks"/>
+    <br>Neural Networks
+  </td>
+</tr>
 
-  <!-- Tools & ML -->
-  <img src="https://skillicons.dev/icons?i=jira" width="68" title="Jira" />
-  <img src="https://img.shields.io/badge/Scrum-00A3E0?style=for-the-badge" height="28" title="Scrum" />
-  <img src="https://img.shields.io/badge/XP-FF6A00?style=for-the-badge" height="28" title="XP" />
-  <img src="https://img.shields.io/badge/YOLOv8-FF6F61?style=for-the-badge" height="28" title="YOLOv8" />
-  <img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge" height="28" title="RAG" />
-  <img src="https://img.shields.io/badge/LLaMA-8A2BE2?style=for-the-badge" height="28" title="LLaMA" />
-  <img src="https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge" height="28" title="Neural Networks" />
-
-</div>
+</table>
 
 ---
 
