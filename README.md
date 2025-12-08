@@ -26,19 +26,84 @@
 
 ### 🛠️ Tech Stack & Tools
 
-|  |  |  |  |  |
-|---|---|---|---|---|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) | ![Shell](https://img.shields.io/badge/Shell-BE1E2D?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
-| ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-| ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) | ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white) |
-| ![CCNA1](https://img.shields.io/badge/CCNA1-00C853?style=for-the-badge) | ![CCNA2](https://img.shields.io/badge/CCNA2-00C853?style=for-the-badge) | ![Wireshark](https://img.shields.io/badge/Wireshark-2A2A72?style=for-the-badge&logo=wireshark&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap-9BC400?style=for-the-badge&logo=nmap&logoColor=white) | ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-0A84FF?style=for-the-badge) |
-| ![Firewall](https://img.shields.io/badge/Firewall-FF6B6B?style=for-the-badge) | ![Cryptography](https://img.shields.io/badge/Cryptography-A335EE?style=for-the-badge) | ![DHCP](https://img.shields.io/badge/DHCP-4C9AFF?style=for-the-badge) | ![DNS](https://img.shields.io/badge/DNS-4C9AFF?style=for-the-badge) | ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-FFB400?style=for-the-badge) |
-| ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![FTP](https://img.shields.io/badge/FTP-009688?style=for-the-badge&logo=ftp&logoColor=white) | ![SMTP](https://img.shields.io/badge/SMTP-FF9800?style=for-the-badge) | ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-2196F3?style=for-the-badge&logo=http&logoColor=white) |
-| ![SSH](https://img.shields.io/badge/SSH-4CAF50?style=for-the-badge&logo=gnome-terminal&logoColor=white) | ![Telnet](https://img.shields.io/badge/Telnet-607D8B?style=for-the-badge) | ![SNMP](https://img.shields.io/badge/SNMP-8A2BE2?style=for-the-badge) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | ![Scrum](https://img.shields.io/badge/Scrum-00A3E0?style=for-the-badge) |
-| ![XP](https://img.shields.io/badge/XP-FF6A00?style=for-the-badge) | ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F61?style=for-the-badge) | ![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge) | ![LLaMA](https://img.shields.io/badge/LLaMA-8A2BE2?style=for-the-badge) | ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge) |
+### 🛠️ Tech Stack & Tools
+
+<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center; background:#0b0b0b; padding:16px; border-radius:12px;">
+
+  <!-- Languages & Data Formats -->
+  <img src="https://skillicons.dev/icons?i=java" width="68" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" width="68" title="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="68" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="68" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="68" title="C++" />
+  <img src="https://skillicons.dev/icons?i=c" width="68" title="C" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="68" title="SQL" />
+  <img src="https://skillicons.dev/icons?i=bash" width="68" title="Shell" />
+  <!-- JSON fallback to shields -->
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="28" title="JSON" />
+
+  <!-- Frameworks & Front/Back -->
+  <img src="https://skillicons.dev/icons?i=spring" width="68" title="Spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="68" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="68" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react" width="68" title="React" />
+  <img src="https://skillicons.dev/icons?i=angular" width="68" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="68" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="68" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="68" title="Tailwind CSS" />
+
+  <!-- DevOps & CI/CD -->
+  <img src="https://skillicons.dev/icons?i=docker" width="68" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="68" title="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="68" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=jenkins" width="68" title="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=terraform" width="68" title="Terraform" />
+  <img src="https://skillicons.dev/icons?i=git" width="68" title="Git" />
+  <img src="https://skillicons.dev/icons?i=postman" width="68" title="Postman" />
+
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws" width="68" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=azure" width="68" title="Azure" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" height="28" title="Oracle Cloud" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" width="68" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="68" title="Postgres" />
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" height="28" title="Oracle DB" />
+
+  <!-- Network & Security -->
+  <!-- CCNA1 / CCNA2 as custom badges -->
+  <img src="https://img.shields.io/badge/CCNA1-00C853?style=for-the-badge" height="28" title="CCNA1" />
+  <img src="https://img.shields.io/badge/CCNA2-00C853?style=for-the-badge" height="28" title="CCNA2" />
+  <img src="https://skillicons.dev/icons?i=wireshark" width="68" title="Wireshark" />
+  <img src="https://skillicons.dev/icons?i=nmap" width="68" title="Nmap" />
+  <img src="https://img.shields.io/badge/SSL%2FTLS-0A84FF?style=for-the-badge" height="28" title="SSL/TLS" />
+  <img src="https://img.shields.io/badge/Firewall-FF6B6B?style=for-the-badge" height="28" title="Firewall" />
+  <img src="https://img.shields.io/badge/Cryptography-A335EE?style=for-the-badge" height="28" title="Cryptography" />
+  <img src="https://img.shields.io/badge/DHCP-4C9AFF?style=for-the-badge" height="28" title="DHCP" />
+  <img src="https://img.shields.io/badge/DNS-4C9AFF?style=for-the-badge" height="28" title="DNS" />
+  <img src="https://img.shields.io/badge/Packet%20Tracer-FFB400?style=for-the-badge" height="28" title="Packet Tracer" />
+
+  <!-- OS & Protocols -->
+  <img src="https://skillicons.dev/icons?i=linux" width="68" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=windows" width="68" title="Windows" />
+  <img src="https://img.shields.io/badge/FTP-009688?style=for-the-badge&logo=ftp&logoColor=white" height="28" title="FTP" />
+  <img src="https://img.shields.io/badge/SMTP-FF9800?style=for-the-badge" height="28" title="SMTP" />
+  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-2196F3?style=for-the-badge" height="28" title="HTTP/HTTPS" />
+  <img src="https://img.shields.io/badge/SSH-4CAF50?style=for-the-badge&logo=gnome-terminal&logoColor=white" height="28" title="SSH" />
+  <img src="https://img.shields.io/badge/Telnet-607D8B?style=for-the-badge" height="28" title="Telnet" />
+  <img src="https://img.shields.io/badge/SNMP-8A2BE2?style=for-the-badge" height="28" title="SNMP" />
+
+  <!-- Tools & ML -->
+  <img src="https://skillicons.dev/icons?i=jira" width="68" title="Jira" />
+  <img src="https://img.shields.io/badge/Scrum-00A3E0?style=for-the-badge" height="28" title="Scrum" />
+  <img src="https://img.shields.io/badge/XP-FF6A00?style=for-the-badge" height="28" title="XP" />
+  <img src="https://img.shields.io/badge/YOLOv8-FF6F61?style=for-the-badge" height="28" title="YOLOv8" />
+  <img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge" height="28" title="RAG" />
+  <img src="https://img.shields.io/badge/LLaMA-8A2BE2?style=for-the-badge" height="28" title="LLaMA" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-00C853?style=for-the-badge" height="28" title="Neural Networks" />
+
+</div>
 
 ---
 
