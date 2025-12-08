@@ -250,7 +250,7 @@
 <!-- TOOLS & ML -->
 <tr>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=jira" width="45" height="45" alt="Jira"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" width="45" height="45" alt="Jira"/>
     <br>Jira
   </td>
   <td align="center" width="90">
