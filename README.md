@@ -35,7 +35,15 @@
 | **☁️ Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white) |
 | **💾 Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white) |
 | **🔒 Security & Networking** | ![Wireshark](https://img.shields.io/badge/Wireshark-2A2A72?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-9BC400?style=for-the-badge&logo=nmap&logoColor=white) ![SSL/TLS](https://img.shields.io/badge/SSL/TLS-0A84FF?style=for-the-badge) ![DHCP/DNS](https://img.shields.io/badge/DHCP%20%26%20DNS-4C9AFF?style=for-the-badge) ![Firewall](https://img.shields.io/badge/Firewall-FF6B6B?style=for-the-badge) ![Cryptography](https://img.shields.io/badge/Cryptography-A335EE?style=for-the-badge) ![Packet%20Tracer](https://img.shields.io/badge/Packet%20Tracer-FFB400?style=for-the-badge) ![CCN1](https://img.shields.io/badge/CCN1-00C853?style=for-the-badge) ![CCN2](https://img.shields.io/badge/CCN2-00C853?style=for-the-badge) |
-| **🖥️ Systems & Protocols** | Linux · Windows · FTP · SMTP · HTTP/HTTPS · SSH · Telnet · SNMP |
+| **🖥️ Systems & Protocols** | 
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![FTP](https://img.shields.io/badge/FTP-009688?style=for-the-badge&logo=ftp&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP-FF9800?style=for-the-badge)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-2196F3?style=for-the-badge&logo=http&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4CAF50?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![Telnet](https://img.shields.io/badge/Telnet-607D8B?style=for-the-badge)
+![SNMP](https://img.shields.io/badge/SNMP-8A2BE2?style=for-the-badge)
 
 </div>
 
