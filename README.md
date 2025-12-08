@@ -62,28 +62,28 @@
     <br>Shell
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=7703&format=png" width="45" height="45" alt="JSON"/>
+    <img src="https://img.icons8.com/?size=512&id=7703&format=png" width="45" height="45" alt="JSON"/>
     <br>JSON
   </td>
 </tr>
 
-<!-- FRAMEWORKS -->
+<!-- FRAMEWORKS & LIBRARIES -->
 <tr>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring"/>
-    <br>Spring
+    <br>Spring Boot
   </td>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
     <br>Node.js
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
-    <br>Next.js
-  </td>
-  <td align="center" width="90">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React"/>
     <br>React
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
+    <br>Next.js
   </td>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/>
@@ -98,12 +98,8 @@
     <br>Bootstrap
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/>
     <br>Tailwind CSS
-  </td>
-  <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=59827&format=png" width="45" height="45" alt="REST API"/>
-    <br>API REST
   </td>
 </tr>
 
@@ -150,7 +146,7 @@
     <br>Azure
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=39854&format=png" width="45" height="45" alt="Oracle Cloud"/>
+    <img src="https://img.icons8.com/?size=512&id=39854&format=png" width="45" height="45" alt="Oracle Cloud"/>
     <br>Oracle Cloud
   </td>
 </tr>
@@ -163,22 +159,22 @@
   </td>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres"/>
-    <br>Postgres
+    <br>PostgreSQL
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=39854&format=png" width="45" height="45" alt="Oracle"/>
-    <br>Oracle
+    <img src="https://img.icons8.com/?size=512&id=39854&format=png" width="45" height="45" alt="Oracle DB"/>
+    <br>Oracle DB
   </td>
 </tr>
 
 <!-- NETWORK & SECURITY -->
 <tr>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=E8rQsG44rO0Z&format=png" width="45" height="45" alt="CCNA1"/>
+    <img src="https://img.icons8.com/?size=512&id=E8rQsG44rO0Z&format=png" width="45" height="45" alt="CCNA1"/>
     <br>CCNA1
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=E8rQsG44rO0Z&format=png" width="45" height="45" alt="CCNA2"/>
+    <img src="https://img.icons8.com/?size=512&id=E8rQsG44rO0Z&format=png" width="45" height="45" alt="CCNA2"/>
     <br>CCNA2
   </td>
   <td align="center" width="90">
@@ -186,19 +182,19 @@
     <br>Wireshark
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=88811&format=png" width="45" height="45" alt="Nmap"/>
+    <img src="https://img.icons8.com/?size=512&id=88811&format=png" width="45" height="45" alt="Nmap"/>
     <br>Nmap
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=9990&format=png" width="45" height="45" alt="SSL"/>
+    <img src="https://img.icons8.com/?size=512&id=9990&format=png" width="45" height="45" alt="SSL"/>
     <br>SSL/TLS
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=4821&format=png" width="45" height="45" alt="Firewall"/>
+    <img src="https://img.icons8.com/?size=512&id=4821&format=png" width="45" height="45" alt="Firewall"/>
     <br>Firewall
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=10497&format=png" width="45" height="45" alt="Cryptography"/>
+    <img src="https://img.icons8.com/?size=512&id=10497&format=png" width="45" height="45" alt="Cryptography"/>
     <br>Cryptography
   </td>
 </tr>
@@ -206,15 +202,15 @@
 <!-- NETWORK 2 -->
 <tr>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=9999&format=png" width="45" height="45" alt="DHCP"/>
+    <img src="https://img.icons8.com/?size=512&id=9999&format=png" width="45" height="45" alt="DHCP"/>
     <br>DHCP
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=9999&format=png" width="45" height="45" alt="DNS"/>
+    <img src="https://img/icons8.com/?size=512&id=9999&format=png" width="45" height="45" alt="DNS"/>
     <br>DNS
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=UPVjs88o0V0A&format=png" width="45" height="45" alt="Packet Tracer"/>
+    <img src="https://img.icons8.com/?size=512&id=UPVjs88o0V0A&format=png" width="45" height="45" alt="Packet Tracer"/>
     <br>Packet Tracer
   </td>
 </tr>
@@ -230,23 +226,23 @@
     <br>Windows
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=11280&format=png" width="45" height="45" alt="FTP"/>
+    <img src="https://img.icons8.com/?size=512&id=11280&format=png" width="45" height="45" alt="FTP"/>
     <br>FTP
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=11180&format=png" width="45" height="45" alt="SMTP"/>
+    <img src="https://img.icons8.com/?size=512&id=11180&format=png" width="45" height="45" alt="SMTP"/>
     <br>SMTP
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=98960&format=png" width="45" height="45" alt="HTTP"/>
+    <img src="https://img.icons8.com/?size=512&id=98960&format=png" width="45" height="45" alt="HTTP"/>
     <br>HTTP/HTTPS
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=98960&format=png" width="45" height="45" alt="SSH"/>
+    <img src="https://img.icons8.com/?size=512&id=98960&format=png" width="45" height="45" alt="SSH"/>
     <br>SSH
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=80888&format=png" width="45" height="45" alt="Telnet"/>
+    <img src="https://img.icons8.com/?size=512&id=80888&format=png" width="45" height="45" alt="Telnet"/>
     <br>Telnet
   </td>
 </tr>
@@ -258,27 +254,27 @@
     <br>Jira
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=0pU0sB85D0V7&format=png" width="45" height="45" alt="Scrum"/>
+    <img src="https://img.icons8.com/?size=512&id=0pU0sB85D0V7&format=png" width="45" height="45" alt="Scrum"/>
     <br>Scrum
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=0qxNXhN3GosH&format=png" width="45" height="45" alt="XP"/>
+    <img src="https://img.icons8.com/?size=512&id=0qxNXhN3GosH&format=png" width="45" height="45" alt="XP"/>
     <br>XP
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=104126&format=png" width="45" height="45" alt="YOLO"/>
+    <img src="https://img.icons8.com/?size=512&id=104126&format=png" width="45" height="45" alt="YOLO"/>
     <br>YOLOv8
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=104126&format=png" width="45" height="45" alt="RAG"/>
+    <img src="https://img.icons8.com/?size=512&id=104126&format=png" width="45" height="45" alt="RAG"/>
     <br>RAG
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=104126&format=png" width="45" height="45" alt="LLaMA"/>
+    <img src="https://img.icons8.com/?size=512&id=104126&format=png" width="45" height="45" alt="LLaMA"/>
     <br>LLaMA
   </td>
   <td align="center" width="90">
-    <img src="https://img.icons8.com/?size=100&id=104126&format=png" width="45" height="45" alt="Neural Networks"/>
+    <img src="https://img.icons8.com/?size=512&id=104126&format=png" width="45" height="45" alt="Neural Networks"/>
     <br>Neural Networks
   </td>
 </tr>
