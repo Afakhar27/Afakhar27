@@ -3,8 +3,8 @@
   
   <!-- Static Subtitle -->
   <p align="center">
-    <font color="#8A2BE2">Master's Student</font> in Networks and Computer Systems | <font color="#8A2BE2">DevOps & Cloud Enthusiast</font> 🚀<br/>
-    <font color="#8A2BE2">Full Stack Developer</font>
+    <span style="color:#8A2BE2">Master's Student</span> in Networks and Computer Systems | <span style="color:#8A2BE2">DevOps & Cloud Enthusiast</span> 🚀<br/>
+    <span style="color:#8A2BE2">Full Stack Developer</span>
   </p>
 
   <p align="center">
@@ -206,7 +206,7 @@
     <br>DHCP
   </td>
   <td align="center" width="90">
-    <img src="https://img/icons8.com/?size=512&id=9999&format=png" width="45" height="45" alt="DNS"/>
+    <img src="https://img.icons8.com/?size=512&id=9999&format=png" width="45" height="45" alt="DNS"/>
     <br>DNS
   </td>
   <td align="center" width="90">
@@ -393,6 +393,19 @@
 > <div style="display:flex; gap:6px; flex-wrap:wrap; align-items:center;">
 >   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 > </div>
+
+---
+
+### 🔍 Revue du projet (pour l'examinateur)
+
+- README clair et riche en contenu — bonne couverture du stack et des projets.
+- Points d'amélioration rapides :
+  - Remplacer balises HTML obsolètes (<font>) (déjà fait) et privilégier Markdown quand possible.
+  - Centraliser les icônes (ex. utilisation cohérente d'une source comme skillicons.dev) pour réduire les liens brisés.
+  - Ajouter un sommaire et des ancres pour faciliter la navigation (README long).
+  - Rendre les dates/Certifications consistantes et vérifier leur ordre chronologique.
+  - Ajouter un fichier CONTRIBUTING.md et LICENSE si le dépôt est public.
+- Suggestion technique : fournir un petit "how to run" pour chaque projet important (Docker/compose, commandes build).
 
 ---
 
