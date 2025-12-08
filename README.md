@@ -44,16 +44,16 @@
 
 ### 🖥️ Systems & Protocols
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /><br/><br/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /><br/><br/>
-  <img src="https://img.shields.io/badge/FTP-009688?style=for-the-badge&logo=ftp&logoColor=white" alt="FTP" /><br/><br/>
-  <img src="https://img.shields.io/badge/SMTP-FF9800?style=for-the-badge" alt="SMTP" /><br/><br/>
-  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-2196F3?style=for-the-badge&logo=http&logoColor=white" alt="HTTP/HTTPS" /><br/><br/>
-  <img src="https://img.shields.io/badge/SSH-4CAF50?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="SSH" /><br/><br/>
-  <img src="https://img.shields.io/badge/Telnet-607D8B?style=for-the-badge" alt="Telnet" /><br/><br/>
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-top:8px;">
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/FTP-009688?style=for-the-badge&logo=ftp&logoColor=white" alt="FTP" />
+  <img src="https://img.shields.io/badge/SMTP-FF9800?style=for-the-badge" alt="SMTP" />
+  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-2196F3?style=for-the-badge&logo=http&logoColor=white" alt="HTTP/HTTPS" />
+  <img src="https://img.shields.io/badge/SSH-4CAF50?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="SSH" />
+  <img src="https://img.shields.io/badge/Telnet-607D8B?style=for-the-badge" alt="Telnet" />
   <img src="https://img.shields.io/badge/SNMP-8A2BE2?style=for-the-badge" alt="SNMP" />
-</p>
+</div>
 
 </div>
 
