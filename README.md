@@ -17,7 +17,6 @@
     <div style="display: inline-block; text-align: left;">
         <b><span style="color:#8A2BE2">Master's Student</span></b> @ FST Settat (2024-2026)<br/>
         Learning <b><span style="color:#8A2BE2">Advanced DevOps</span></b> & <b><span style="color:#8A2BE2">Cloud Architecture</span></b><br/>
-        Looking for a <b><span style="color:#8A2BE2">PFE (End of Studies) Internship</span></b>
     </div>
   </div>
 </div>
