@@ -77,6 +77,9 @@
 <div align="center">
 <!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afakhar27&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
+
+<!-- Profile Summary Card -->
+<img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Profile Details" width="400" />
 </div>
 
 ---
