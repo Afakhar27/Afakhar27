@@ -79,7 +79,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afakhar27&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
 
 <!-- Profile Summary Card -->
-<img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Profile Details" width="400" />
+<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" width="400" />
 </div>
 
 ---
