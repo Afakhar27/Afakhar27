@@ -3,8 +3,7 @@
   
   <!-- Static Subtitle -->
   <p align="center">
-    <span style="color:#8A2BE2">Master's Student</span> in Networks and Computer Systems | <span style="color:#8A2BE2">DevOps & Cloud Enthusiast</span> 🚀<br/>
-    <span style="color:#8A2BE2">Full Stack Developer</span>
+    <span style="color:#8A2BE2">Software Engineer</span>
   </p>
 
   <p align="center">
