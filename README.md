@@ -93,7 +93,7 @@
 
 ---
 
-### 🎀 Featured Projects
+### Featured Projects
 
 #### 📄 OCR & AI Extraction (PFA Project)
 > *April 2025 - June 2025 | FST Settat*
